@@ -1,0 +1,59 @@
+[
+    {
+        "mugid": 1,
+        "imgLocation":"images/candycup.png",
+        "quantityInfo":"Cup 250ml",
+        "price":100,
+         "starRating":5
+    },
+    {
+        "mugid":2,
+        "imgLocation":"images/Rcup.png",
+        "quantityInfo":"Cup 250ml",
+        "price":120,
+         "starRating":3.5
+    },
+    {
+        "mugid":3,
+        "imgLocation":"images/Rbigcup.png",
+        "quantityInfo":"cup 380 ml",
+        "price":300,
+         "starRating":1.5
+    },
+    {
+        "mugid":4,
+        "imgLocation":"images/globecup.png",
+        "quantityInfo":"cup 500ml",
+        "price":500,
+        "starRating":3
+    },
+    {
+        "mugid":5,
+        "imgLocation":"images/xoxocup.png",
+        "quantityInfo":"cup 16oz",
+        "price":90,
+        "starRating":4
+    },
+      {
+        "mugid":6,
+        "imgLocation":"images/plaincup.png",
+        "quantityInfo":"cup 8oz",
+        "price":50,
+        "starRating":1.5
+    },
+      {
+        "mugid":7,
+        "imgLocation":"images/palmcup.png",
+        "quantityInfo":"cup 16oz",
+        "price":200,
+        "starRating":5
+    },
+    {
+        "mugid":8,
+        "imgLocation":"images/tortoisecup.png",
+        "quantityInfo":"cup 200ml",
+        "price":200,
+        "starRating":2
+    }
+
+]
